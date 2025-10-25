@@ -1,0 +1,5 @@
+{
+  "name": "Simple Raffle Winner Picker",
+  "description": "A clean and simple web app to randomly select a winner from a list of names. Just paste your list of participants, click the button, and see who wins!",
+  "requestFramePermissions": []
+}
